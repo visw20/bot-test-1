@@ -162,7 +162,7 @@ while True:
             else:
                 res = "You entered an invalid order number. Please provide a valid numeric order number."
         else:
-            res = "We apologizess for any inconvenience caused. Our support team will review your issue and get back to you as soon as possible. If you need immediate assistance, please contact our support team at info@fastapizza.com or call us at +91 7370057005."
+            res = "We apologize for any inconvenience caused. Our support team will review your issue and get back to you as soon as possible. If you need immediate assistance, please contact our support team at info@fastapizza.com or call us at +91 7370057005."
             order_related_mode = False  # Resetting the mode after handling the issue
             order_number = None  # Reset the order number
     else:
